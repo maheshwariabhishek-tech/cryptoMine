@@ -7,10 +7,8 @@ import {
   dailyCombo,
   dailyReward,
   dollarCoin,
-  hamsterCoin,
   mainCharacter,
 } from "./images";
-import Mine from "./icons/Mine";
 import Friends from "./icons/Friends";
 import Coins from "./icons/Coins";
 
